@@ -9,6 +9,8 @@ sites:
     url: https://thetrident.one/api
   - name: Trident Docs
     url: https://docs.thetrident.one
+  - name: Trident Assistant
+    url: https://assistant.thetrident.one
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
