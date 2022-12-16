@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 618,
-    "timeWeek": 430,
-    "timeMonth": 421,
-    "timeYear": 379,
+    "time": 378,
+    "timeDay": 302,
+    "timeWeek": 445,
+    "timeMonth": 419,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 102,
-    "timeWeek": 207,
-    "timeMonth": 231,
+    "timeDay": 219,
+    "timeWeek": 225,
+    "timeMonth": 229,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 472,
-    "timeWeek": 347,
+    "time": 478,
+    "timeDay": 614,
+    "timeWeek": 402,
     "timeMonth": 409,
-    "timeYear": 477,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,15 @@
     "slug": "trident-assistant",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1667,
-    "timeDay": 2029,
-    "timeWeek": 1624,
-    "timeMonth": 1728,
-    "timeYear": 1667,
-    "dailyMinutesDown": {
-      "2022-12-15": 5
-    }
+    "time": 1665,
+    "timeDay": 1437,
+    "timeWeek": 1637,
+    "timeMonth": 1710,
+    "timeYear": 1665,
+    "dailyMinutesDown": {}
   }
 ]
