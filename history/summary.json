@@ -62,17 +62,19 @@
     "url": "https://assistant.thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/assistant.thetrident.one.ico",
     "slug": "trident-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1648,
-    "timeDay": 1590,
-    "timeWeek": 1675,
-    "timeMonth": 1611,
-    "timeYear": 1648,
-    "dailyMinutesDown": {}
+    "time": 1662,
+    "timeDay": 2794,
+    "timeWeek": 1965,
+    "timeMonth": 1686,
+    "timeYear": 1662,
+    "dailyMinutesDown": {
+      "2023-01-29": 0
+    }
   }
 ]
