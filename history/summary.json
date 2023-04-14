@@ -62,9 +62,9 @@
     "url": "https://assistant.thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/assistant.thetrident.one.ico",
     "slug": "trident-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
@@ -74,6 +74,7 @@
     "timeMonth": 1235,
     "timeYear": 1569,
     "dailyMinutesDown": {
+      "2023-04-14": 0,
       "2023-03-28": 36,
       "2023-03-17": 80,
       "2023-01-29": 18
