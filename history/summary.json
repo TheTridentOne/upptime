@@ -44,19 +44,19 @@
     "url": "https://docs.thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/docs.thetrident.one.ico",
     "slug": "trident-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 420,
-    "timeDay": 235,
-    "timeWeek": 411,
-    "timeMonth": 364,
+    "timeDay": 272,
+    "timeWeek": 404,
+    "timeMonth": 363,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-05-09": 0
+      "2023-05-09": 16
     }
   },
   {
