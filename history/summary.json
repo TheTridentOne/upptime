@@ -44,9 +44,9 @@
     "url": "https://docs.thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/docs.thetrident.one.ico",
     "slug": "trident-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -56,6 +56,7 @@
     "timeMonth": 363,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-05-09": 16
     }
   },
