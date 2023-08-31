@@ -1,7 +1,7 @@
 url: https://thetrident.one
-status: up
-code: 200
-responseTime: 290
-lastUpdated: 2023-08-30T23:11:50.129Z
+status: down
+code: 503
+responseTime: 133
+lastUpdated: 2023-08-31T07:11:52.991Z
 startTime: 2022-08-24T03:19:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
