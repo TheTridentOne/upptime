@@ -1,7 +1,7 @@
 url: https://thetrident.one/api
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2023-08-31T09:19:43.705Z
+status: up
+code: 200
+responseTime: 219
+lastUpdated: 2023-08-31T09:36:41.811Z
 startTime: 2022-08-24T03:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
