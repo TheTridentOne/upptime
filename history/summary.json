@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "99.36%",
-    "time": 2055,
-    "timeDay": 9218,
-    "timeWeek": 4095,
-    "timeMonth": 3540,
-    "timeYear": 2385,
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "99.37%",
+    "time": 2057,
+    "timeDay": 6689,
+    "timeWeek": 4049,
+    "timeMonth": 3617,
+    "timeYear": 2394,
     "dailyMinutesDown": {
-      "2024-07-26": 62,
+      "2024-07-26": 64,
       "2024-07-25": 43,
       "2024-07-24": 177,
       "2024-07-23": 69,
@@ -50,8 +50,7 @@
       "2024-06-20": 25,
       "2024-06-18": 35,
       "2024-06-17": 9,
-      "2024-06-15": 56,
-      "2024-06-13": 22
+      "2024-06-15": 56
     }
   },
   {
@@ -59,17 +58,17 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "99.32%",
-    "time": 1188,
-    "timeDay": 1751,
-    "timeWeek": 3173,
-    "timeMonth": 2679,
-    "timeYear": 1398,
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "94.77%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.33%",
+    "time": 1189,
+    "timeDay": 2499,
+    "timeWeek": 3058,
+    "timeMonth": 2487,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-07-26": 52,
       "2024-07-25": 26,
@@ -120,8 +119,7 @@
       "2024-05-03": 85,
       "2024-05-01": 66,
       "2024-04-29": 361,
-      "2024-04-21": 28,
-      "2024-03-14": 52
+      "2024-04-21": 28
     }
   },
   {
@@ -139,7 +137,7 @@
     "timeDay": 114,
     "timeWeek": 264,
     "timeMonth": 244,
-    "timeYear": 294,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2024-03-26": 17,
       "2023-08-11": 79
