@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "87.69%",
-    "uptimeWeek": "88.37%",
-    "uptimeMonth": "92.88%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "88.66%",
+    "uptimeWeek": "88.67%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "99.41%",
-    "time": 2327,
-    "timeDay": 3708,
-    "timeWeek": 3098,
-    "timeMonth": 2821,
-    "timeYear": 2560,
+    "time": 2330,
+    "timeDay": 4679,
+    "timeWeek": 3128,
+    "timeMonth": 2822,
+    "timeYear": 2559,
     "dailyMinutesDown": {
-      "2024-09-15": 162,
+      "2024-09-15": 164,
       "2024-09-14": 235,
       "2024-09-13": 183,
       "2024-09-12": 156,
@@ -41,7 +41,7 @@
       "2024-08-23": 106,
       "2024-08-22": 208,
       "2024-08-21": 260,
-      "2024-08-20": 45
+      "2024-08-20": 16
     }
   },
   {
@@ -49,16 +49,16 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "92.36%",
+    "uptimeDay": "90.45%",
+    "uptimeWeek": "92.66%",
     "uptimeMonth": "93.48%",
-    "uptimeYear": "99.38%",
-    "time": 1724,
-    "timeDay": 4830,
-    "timeWeek": 4068,
-    "timeMonth": 3167,
+    "uptimeYear": "99.39%",
+    "time": 1726,
+    "timeDay": 2518,
+    "timeWeek": 4268,
+    "timeMonth": 3166,
     "timeYear": 1919,
     "dailyMinutesDown": {
       "2024-09-15": 137,
@@ -98,7 +98,7 @@
       "2024-07-28": 15,
       "2024-07-26": 52,
       "2024-07-25": 26,
-      "2024-07-24": 108
+      "2024-07-24": 83
     }
   },
   {
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 246,
+    "timeDay": 249,
     "timeWeek": 292,
-    "timeMonth": 594,
+    "timeMonth": 586,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2024-03-26": 17
