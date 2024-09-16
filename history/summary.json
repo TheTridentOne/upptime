@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "83.00%",
+    "uptimeWeek": "87.41%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
-    "time": 2211,
-    "timeDay": 2455,
+    "time": 2213,
+    "timeDay": 2461,
     "timeWeek": 2867,
-    "timeMonth": 2833,
+    "timeMonth": 2834,
     "timeYear": 2560,
     "dailyMinutesDown": {
-      "2024-09-16": 244,
+      "2024-09-16": 246,
       "2024-09-15": 162,
       "2024-09-14": 235,
       "2024-09-13": 183,
@@ -41,7 +41,7 @@
       "2024-08-25": 65,
       "2024-08-23": 106,
       "2024-08-22": 208,
-      "2024-08-21": 125
+      "2024-08-21": 103
     }
   },
   {
@@ -49,15 +49,15 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "85.52%",
+    "uptimeDay": "85.51%",
     "uptimeWeek": "91.12%",
     "uptimeMonth": "93.11%",
-    "uptimeYear": "99.37%",
-    "time": 1655,
-    "timeDay": 4747,
-    "timeWeek": 4005,
+    "uptimeYear": "99.38%",
+    "time": 1656,
+    "timeDay": 4750,
+    "timeWeek": 4006,
     "timeMonth": 3145,
     "timeYear": 1961,
     "dailyMinutesDown": {
@@ -96,8 +96,7 @@
       "2024-08-05": 15,
       "2024-08-02": 15,
       "2024-07-29": 25,
-      "2024-07-28": 15,
-      "2024-07-26": 37
+      "2024-07-28": 15
     }
   },
   {
@@ -111,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 249,
-    "timeWeek": 292,
-    "timeMonth": 586,
+    "time": 349,
+    "timeDay": 251,
+    "timeWeek": 282,
+    "timeMonth": 581,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2024-03-26": 17
@@ -131,7 +130,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 740,
+    "time": 739,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
