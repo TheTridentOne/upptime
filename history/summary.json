@@ -4,18 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "70.83%",
-    "uptimeWeek": "88.34%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "75.88%",
+    "uptimeWeek": "88.32%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
-    "time": 2324,
-    "timeDay": 1436,
-    "timeWeek": 2009,
+    "time": 2326,
+    "timeDay": 1481,
+    "timeWeek": 2010,
     "timeMonth": 2283,
     "timeYear": 2510,
     "dailyMinutesDown": {
+      "2024-10-04": 2,
       "2024-10-03": 388,
       "2024-10-02": 179,
       "2024-10-01": 167,
@@ -35,7 +36,7 @@
       "2024-09-16": 244,
       "2024-09-15": 162,
       "2024-09-14": 235,
-      "2024-09-13": 127
+      "2024-09-13": 95
     }
   },
   {
@@ -43,18 +44,19 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "75.79%",
+    "uptimeDay": "80.83%",
     "uptimeWeek": "91.00%",
     "uptimeMonth": "92.96%",
     "uptimeYear": "99.40%",
-    "time": 1784,
-    "timeDay": 2123,
+    "time": 1785,
+    "timeDay": 2249,
     "timeWeek": 1636,
     "timeMonth": 2800,
     "timeYear": 2017,
     "dailyMinutesDown": {
+      "2024-10-04": 0,
       "2024-10-03": 316,
       "2024-10-02": 151,
       "2024-10-01": 157,
@@ -83,8 +85,7 @@
       "2024-09-07": 55,
       "2024-09-06": 92,
       "2024-09-05": 46,
-      "2024-09-03": 52,
-      "2024-09-02": 28
+      "2024-09-03": 52
     }
   },
   {
@@ -99,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 219,
-    "timeWeek": 321,
-    "timeMonth": 301,
+    "timeDay": 333,
+    "timeWeek": 332,
+    "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2024-03-26": 17
@@ -122,7 +123,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 730,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2024-04-07": 106,
       "2024-04-06": 768,
