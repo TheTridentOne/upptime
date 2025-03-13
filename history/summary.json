@@ -6,17 +6,17 @@
     "slug": "trident",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "95.66%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "95.67%",
     "uptimeYear": "99.47%",
     "time": 2456,
-    "timeDay": 3321,
-    "timeWeek": 2239,
-    "timeMonth": 2499,
+    "timeDay": 3911,
+    "timeWeek": 2020,
+    "timeMonth": 2500,
     "timeYear": 2639,
     "dailyMinutesDown": {
-      "2025-03-12": 99,
+      "2025-03-12": 95,
       "2025-03-11": 67,
       "2025-03-10": 20,
       "2025-03-08": 15,
@@ -46,7 +46,7 @@
       "2024-10-15": 178,
       "2024-10-14": 176,
       "2024-10-13": 179,
-      "2024-10-12": 112
+      "2024-10-12": 136
     }
   },
   {
@@ -56,17 +56,17 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.78%",
-    "uptimeWeek": "97.83%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "99.34%",
     "time": 1931,
-    "timeDay": 204,
-    "timeWeek": 2427,
+    "timeDay": 240,
+    "timeWeek": 2429,
     "timeMonth": 1889,
     "timeYear": 2161,
     "dailyMinutesDown": {
-      "2025-03-12": 75,
+      "2025-03-12": 72,
       "2025-03-11": 27,
       "2025-03-07": 40,
       "2025-03-06": 77,
@@ -100,7 +100,7 @@
       "2024-10-04": 205,
       "2024-10-03": 316,
       "2024-10-02": 151,
-      "2024-10-01": 121
+      "2024-10-01": 157
     }
   },
   {
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 83,
-    "timeWeek": 245,
-    "timeMonth": 246,
+    "timeDay": 211,
+    "timeWeek": 223,
+    "timeMonth": 239,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2024-03-26": 17
@@ -134,16 +134,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 733,
+    "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 705,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2024-04-07": 106,
       "2024-04-06": 768,
-      "2024-03-14": 55,
-      "2024-03-13": 5
+      "2024-03-14": 55
     }
   }
 ]
