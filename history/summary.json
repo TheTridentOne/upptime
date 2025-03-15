@@ -6,17 +6,17 @@
     "slug": "trident",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "92.35%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "95.53%",
     "uptimeYear": "99.48%",
-    "time": 2521,
-    "timeDay": 4336,
-    "timeWeek": 2664,
-    "timeMonth": 2700,
-    "timeYear": 2657,
+    "time": 2534,
+    "timeDay": 5198,
+    "timeWeek": 2925,
+    "timeMonth": 2772,
+    "timeYear": 2672,
     "dailyMinutesDown": {
-      "2025-03-14": 110,
+      "2025-03-14": 106,
       "2025-03-13": 85,
       "2025-03-12": 95,
       "2025-03-11": 67,
@@ -47,7 +47,7 @@
       "2024-10-16": 60,
       "2024-10-15": 178,
       "2024-10-14": 176,
-      "2024-10-13": 46
+      "2024-10-13": 83
     }
   },
   {
@@ -57,17 +57,16 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.34%",
     "time": 1949,
-    "timeDay": 232,
-    "timeWeek": 1594,
-    "timeMonth": 1872,
+    "timeDay": 236,
+    "timeWeek": 1584,
+    "timeMonth": 1873,
     "timeYear": 2139,
     "dailyMinutesDown": {
-      "2025-03-14": 3,
       "2025-03-13": 42,
       "2025-03-12": 72,
       "2025-03-11": 27,
@@ -103,7 +102,7 @@
       "2024-10-04": 205,
       "2024-10-03": 316,
       "2024-10-02": 151,
-      "2024-10-01": 86
+      "2024-10-01": 103
     }
   },
   {
@@ -118,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 0,
-    "timeWeek": 245,
-    "timeMonth": 238,
+    "timeDay": 308,
+    "timeWeek": 254,
+    "timeMonth": 240,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2024-03-26": 17
@@ -141,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 710,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2024-04-07": 106,
       "2024-04-06": 768
