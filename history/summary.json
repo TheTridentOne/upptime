@@ -6,17 +6,17 @@
     "slug": "trident",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.62%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "95.64%",
     "uptimeYear": "99.52%",
     "time": 2563,
-    "timeDay": 895,
-    "timeWeek": 3532,
+    "timeDay": 943,
+    "timeWeek": 3556,
     "timeMonth": 2838,
     "timeYear": 2696,
     "dailyMinutesDown": {
-      "2025-03-19": 25,
+      "2025-03-19": 16,
       "2025-03-18": 73,
       "2025-03-17": 77,
       "2025-03-16": 65,
@@ -48,7 +48,8 @@
       "2025-02-14": 32,
       "2025-02-13": 100,
       "2024-10-18": 75,
-      "2024-10-17": 89
+      "2024-10-17": 89,
+      "2024-10-16": 17
     }
   },
   {
@@ -58,17 +59,16 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.35%",
     "time": 1900,
-    "timeDay": 328,
-    "timeWeek": 1149,
+    "timeDay": 457,
+    "timeWeek": 1165,
     "timeMonth": 2042,
     "timeYear": 2135,
     "dailyMinutesDown": {
-      "2025-03-19": 7,
       "2025-03-18": 18,
       "2025-03-17": 34,
       "2025-03-16": 33,
@@ -107,7 +107,7 @@
       "2024-10-05": 256,
       "2024-10-04": 205,
       "2024-10-03": 316,
-      "2024-10-02": 94
+      "2024-10-02": 110
     }
   },
   {
@@ -122,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 91,
-    "timeWeek": 178,
-    "timeMonth": 222,
-    "timeYear": 308,
+    "timeDay": 109,
+    "timeWeek": 153,
+    "timeMonth": 217,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2024-03-26": 17
     }
@@ -141,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 733,
+    "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 723,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2024-04-07": 106,
       "2024-04-06": 768
