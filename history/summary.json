@@ -6,17 +6,17 @@
     "slug": "trident",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.49%",
     "time": 2614,
-    "timeDay": 1444,
-    "timeWeek": 3559,
+    "timeDay": 1522,
+    "timeWeek": 3391,
     "timeMonth": 2933,
     "timeYear": 2731,
     "dailyMinutesDown": {
-      "2025-04-09": 40,
+      "2025-04-09": 35,
       "2025-04-08": 90,
       "2025-04-07": 175,
       "2025-04-06": 35,
@@ -48,7 +48,7 @@
       "2025-03-11": 67,
       "2025-03-10": 20,
       "2025-03-08": 15,
-      "2025-03-07": 46
+      "2025-03-07": 71
     }
   },
   {
@@ -64,7 +64,7 @@
     "uptimeYear": "99.47%",
     "time": 1950,
     "timeDay": 213,
-    "timeWeek": 1117,
+    "timeWeek": 1093,
     "timeMonth": 1428,
     "timeYear": 2092,
     "dailyMinutesDown": {
