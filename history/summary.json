@@ -47,17 +47,17 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "99.47%",
     "time": 2017,
     "timeDay": 201,
     "timeWeek": 1848,
     "timeMonth": 1721,
     "timeYear": 1966,
     "dailyMinutesDown": {
-      "2025-05-31": 91,
+      "2025-05-31": 77,
       "2025-05-29": 37,
       "2025-05-28": 82,
       "2025-05-27": 64,
@@ -98,7 +98,7 @@
       "2025-04-19": 39,
       "2025-04-18": 21,
       "2025-04-17": 39,
-      "2025-04-16": 23
+      "2025-04-16": 38
     }
   },
   {
