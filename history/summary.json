@@ -6,17 +6,17 @@
     "slug": "trident",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "83.68%",
-    "uptimeWeek": "89.37%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "89.41%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.47%",
-    "time": 2696,
-    "timeDay": 3509,
-    "timeWeek": 3599,
-    "timeMonth": 2609,
+    "time": 2688,
+    "timeDay": 2457,
+    "timeWeek": 3594,
+    "timeMonth": 2622,
     "timeYear": 2716,
     "dailyMinutesDown": {
-      "2025-06-06": 209,
+      "2025-06-06": 205,
       "2025-06-05": 213,
       "2025-06-04": 79,
       "2025-06-03": 123,
@@ -38,7 +38,7 @@
       "2025-05-18": 97,
       "2025-05-17": 226,
       "2025-05-16": 49,
-      "2025-05-15": 19
+      "2025-05-15": 47
     }
   },
   {
@@ -48,17 +48,17 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "92.02%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "94.83%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "92.53%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "99.41%",
-    "time": 1981,
-    "timeDay": 1491,
-    "timeWeek": 551,
+    "time": 1980,
+    "timeDay": 1909,
+    "timeWeek": 550,
     "timeMonth": 1527,
     "timeYear": 1938,
     "dailyMinutesDown": {
-      "2025-06-06": 115,
+      "2025-06-06": 112,
       "2025-06-05": 412,
       "2025-06-04": 59,
       "2025-06-03": 26,
@@ -97,7 +97,8 @@
       "2025-04-27": 127,
       "2025-04-26": 21,
       "2025-04-25": 65,
-      "2025-04-24": 46
+      "2025-04-24": 46,
+      "2025-04-23": 15
     }
   },
   {
@@ -112,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 433,
-    "timeWeek": 277,
-    "timeMonth": 287,
-    "timeYear": 311,
+    "timeDay": 95,
+    "timeWeek": 264,
+    "timeMonth": 280,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -129,7 +130,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
+    "time": 720,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
