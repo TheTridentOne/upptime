@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "89.75%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "89.74%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "99.48%",
     "time": 2748,
     "timeDay": 7041,
     "timeWeek": 4560,
     "timeMonth": 2895,
     "timeYear": 2753,
     "dailyMinutesDown": {
-      "2025-06-08": 122,
+      "2025-06-08": 123,
       "2025-06-07": 86,
       "2025-06-06": 205,
       "2025-06-05": 213,
@@ -38,7 +38,7 @@
       "2025-05-20": 77,
       "2025-05-19": 154,
       "2025-05-18": 97,
-      "2025-05-17": 94
+      "2025-05-17": 64
     }
   },
   {
