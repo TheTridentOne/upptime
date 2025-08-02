@@ -6,17 +6,17 @@
     "slug": "trident",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "89.10%",
-    "uptimeWeek": "80.56%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "90.46%",
+    "uptimeYear": "99.20%",
     "time": 2837,
     "timeDay": 2355,
-    "timeWeek": 2400,
+    "timeWeek": 2417,
     "timeMonth": 3048,
     "timeYear": 2827,
     "dailyMinutesDown": {
-      "2025-08-01": 157,
+      "2025-08-01": 145,
       "2025-07-31": 151,
       "2025-07-30": 365,
       "2025-07-29": 519,
@@ -29,7 +29,7 @@
       "2025-07-22": 466,
       "2025-07-21": 309,
       "2025-07-20": 237,
-      "2025-07-19": 74
+      "2025-07-19": 91
     }
   },
   {
@@ -39,17 +39,17 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "89.82%",
-    "uptimeWeek": "86.93%",
-    "uptimeMonth": "91.50%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "87.72%",
+    "uptimeMonth": "91.48%",
     "uptimeYear": "99.29%",
     "time": 1910,
     "timeDay": 777,
-    "timeWeek": 1324,
-    "timeMonth": 2070,
+    "timeWeek": 1338,
+    "timeMonth": 2075,
     "timeYear": 1889,
     "dailyMinutesDown": {
-      "2025-08-01": 147,
+      "2025-08-01": 136,
       "2025-07-31": 121,
       "2025-07-30": 112,
       "2025-07-29": 389,
@@ -66,7 +66,7 @@
       "2025-07-18": 245,
       "2025-07-17": 315,
       "2025-07-16": 101,
-      "2025-07-15": 84
+      "2025-07-15": 102
     }
   },
   {
