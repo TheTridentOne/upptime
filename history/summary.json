@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "69.54%",
-    "uptimeWeek": "74.18%",
-    "uptimeMonth": "91.66%",
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "74.16%",
+    "uptimeMonth": "91.72%",
     "uptimeYear": "99.31%",
     "time": 2905,
-    "timeDay": 4636,
+    "timeDay": 4751,
     "timeWeek": 4309,
     "timeMonth": 3236,
     "timeYear": 2920,
     "dailyMinutesDown": {
-      "2025-08-20": 257,
+      "2025-08-20": 259,
       "2025-08-19": 499,
       "2025-08-18": 639,
       "2025-08-17": 482,
@@ -28,7 +28,7 @@
       "2025-08-11": 284,
       "2025-08-10": 296,
       "2025-08-09": 150,
-      "2025-08-08": 72
+      "2025-08-08": 46
     }
   },
   {
@@ -36,13 +36,13 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "76.35%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "76.33%",
     "uptimeWeek": "82.64%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "99.38%",
-    "time": 1918,
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "99.39%",
+    "time": 1919,
     "timeDay": 3501,
     "timeWeek": 2490,
     "timeMonth": 2025,
@@ -65,7 +65,7 @@
       "2025-08-05": 226,
       "2025-08-04": 175,
       "2025-08-03": 175,
-      "2025-08-02": 59
+      "2025-08-02": 19
     }
   },
   {
