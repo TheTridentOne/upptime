@@ -4,18 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "41.08%",
-    "uptimeWeek": "34.28%",
-    "uptimeMonth": "84.23%",
-    "uptimeYear": "98.69%",
-    "time": 3128,
-    "timeDay": 4928,
+    "uptimeDay": "48.74%",
+    "uptimeWeek": "35.37%",
+    "uptimeMonth": "84.42%",
+    "uptimeYear": "98.70%",
+    "time": 3133,
+    "timeDay": 4937,
     "timeWeek": 3796,
-    "timeMonth": 3560,
-    "timeYear": 3136,
+    "timeMonth": 3602,
+    "timeYear": 3141,
     "dailyMinutesDown": {
+      "2025-10-24": 2,
       "2025-10-23": 790,
       "2025-10-22": 875,
       "2025-10-21": 1181,
@@ -23,7 +24,7 @@
       "2025-10-19": 1100,
       "2025-10-18": 907,
       "2025-10-17": 760,
-      "2025-10-16": 342
+      "2025-10-16": 256
     }
   },
   {
@@ -31,18 +32,19 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "43.67%",
-    "uptimeWeek": "38.30%",
-    "uptimeMonth": "85.07%",
+    "uptimeDay": "51.30%",
+    "uptimeWeek": "39.32%",
+    "uptimeMonth": "85.17%",
     "uptimeYear": "98.76%",
     "time": 2026,
-    "timeDay": 890,
-    "timeWeek": 2997,
-    "timeMonth": 2869,
+    "timeDay": 875,
+    "timeWeek": 2841,
+    "timeMonth": 2854,
     "timeYear": 2008,
     "dailyMinutesDown": {
+      "2025-10-24": 0,
       "2025-10-23": 754,
       "2025-10-22": 769,
       "2025-10-21": 1157,
@@ -50,7 +52,7 @@
       "2025-10-19": 1044,
       "2025-10-18": 851,
       "2025-10-17": 727,
-      "2025-10-16": 373
+      "2025-10-16": 328
     }
   },
   {
@@ -65,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 548,
-    "timeWeek": 306,
-    "timeMonth": 263,
-    "timeYear": 293,
+    "timeDay": 294,
+    "timeWeek": 319,
+    "timeMonth": 271,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
