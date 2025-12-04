@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "92.64%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "83.46%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.39%",
     "time": 3120,
-    "timeDay": 2039,
-    "timeWeek": 4108,
-    "timeMonth": 3024,
+    "timeDay": 2114,
+    "timeWeek": 3986,
+    "timeMonth": 3020,
     "timeYear": 3145,
     "dailyMinutesDown": {
-      "2025-12-04": 221,
+      "2025-12-04": 222,
       "2025-12-03": 304,
       "2025-12-02": 309,
       "2025-12-01": 251,
@@ -29,7 +29,7 @@
       "2025-11-24": 165,
       "2025-11-23": 195,
       "2025-11-22": 380,
-      "2025-11-21": 239
+      "2025-11-21": 196
     }
   },
   {
@@ -39,17 +39,17 @@
     "slug": "trident-api",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "92.09%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "92.06%",
     "uptimeYear": "99.34%",
-    "time": 2140,
-    "timeDay": 251,
-    "timeWeek": 1526,
-    "timeMonth": 2632,
+    "time": 2139,
+    "timeDay": 232,
+    "timeWeek": 1492,
+    "timeMonth": 2628,
     "timeYear": 2146,
     "dailyMinutesDown": {
-      "2025-12-04": 127,
+      "2025-12-04": 112,
       "2025-12-03": 109,
       "2025-12-02": 208,
       "2025-12-01": 198,
@@ -68,7 +68,7 @@
       "2025-11-18": 627,
       "2025-11-17": 181,
       "2025-11-16": 135,
-      "2025-11-15": 65
+      "2025-11-15": 92
     }
   },
   {
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 185,
-    "timeWeek": 246,
-    "timeMonth": 280,
-    "timeYear": 291,
+    "timeDay": 316,
+    "timeWeek": 260,
+    "timeMonth": 281,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
