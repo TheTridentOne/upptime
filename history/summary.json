@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "73.85%",
-    "uptimeWeek": "67.81%",
-    "uptimeMonth": "86.84%",
-    "uptimeYear": "98.90%",
+    "uptimeDay": "73.74%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "86.95%",
+    "uptimeYear": "98.91%",
     "time": 3345,
     "timeDay": 4343,
     "timeWeek": 4285,
-    "timeMonth": 5106,
+    "timeMonth": 5124,
     "timeYear": 3359,
     "dailyMinutesDown": {
-      "2026-03-01": 377,
+      "2026-03-01": 379,
       "2026-02-28": 603,
       "2026-02-27": 580,
       "2026-02-26": 500,
@@ -28,7 +28,7 @@
       "2026-02-20": 383,
       "2026-02-19": 277,
       "2026-02-18": 352,
-      "2026-02-17": 432
+      "2026-02-17": 380
     }
   },
   {
@@ -45,7 +45,7 @@
     "time": 2199,
     "timeDay": 1685,
     "timeWeek": 2075,
-    "timeMonth": 2285,
+    "timeMonth": 2293,
     "timeYear": 2208,
     "dailyMinutesDown": {
       "2026-03-01": 284,
