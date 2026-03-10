@@ -4,19 +4,19 @@
     "url": "https://thetrident.one",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "35.01%",
-    "uptimeWeek": "52.99%",
-    "uptimeMonth": "82.90%",
-    "uptimeYear": "98.57%",
-    "time": 3370,
+    "uptimeDay": "41.03%",
+    "uptimeWeek": "52.98%",
+    "uptimeMonth": "83.01%",
+    "uptimeYear": "98.58%",
+    "time": 3366,
     "timeDay": 3158,
-    "timeWeek": 4069,
-    "timeMonth": 5127,
-    "timeYear": 3382,
+    "timeWeek": 3914,
+    "timeMonth": 5143,
+    "timeYear": 3379,
     "dailyMinutesDown": {
-      "2026-03-10": 804,
+      "2026-03-10": 806,
       "2026-03-09": 885,
       "2026-03-08": 294,
       "2026-03-07": 828,
@@ -28,7 +28,7 @@
       "2026-03-01": 377,
       "2026-02-28": 603,
       "2026-02-27": 580,
-      "2026-02-26": 86
+      "2026-02-26": 35
     }
   },
   {
@@ -36,19 +36,19 @@
     "url": "https://thetrident.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/thetrident.one.ico",
     "slug": "trident-api",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "55.59%",
-    "uptimeWeek": "74.72%",
-    "uptimeMonth": "87.23%",
-    "uptimeYear": "98.94%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "57.07%",
+    "uptimeWeek": "74.71%",
+    "uptimeMonth": "87.46%",
+    "uptimeYear": "98.95%",
     "time": 2244,
-    "timeDay": 8262,
+    "timeDay": 6674,
     "timeWeek": 4168,
-    "timeMonth": 2872,
+    "timeMonth": 2882,
     "timeYear": 2218,
     "dailyMinutesDown": {
-      "2026-03-10": 576,
+      "2026-03-10": 577,
       "2026-03-09": 406,
       "2026-03-08": 183,
       "2026-03-07": 281,
@@ -63,7 +63,7 @@
       "2026-02-26": 453,
       "2026-02-25": 313,
       "2026-02-24": 216,
-      "2026-02-23": 127
+      "2026-02-23": 25
     }
   },
   {
@@ -81,7 +81,7 @@
     "timeDay": 371,
     "timeWeek": 269,
     "timeMonth": 277,
-    "timeYear": 287,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2025-12-05": 17
     }
